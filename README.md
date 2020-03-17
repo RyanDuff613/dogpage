@@ -1,11 +1,11 @@
-# Dogspace
+# _Dogspace_
 
 ## a website created for harvey the dog by Ryan Duff
 
-### Purpose
+### **Purpose**
 ###### keeping friends and family up to date on our dog's life
 
-### Tech Used 
+### **Tech Used**
 * html
 * css
 
