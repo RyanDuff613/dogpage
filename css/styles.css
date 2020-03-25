@@ -9,3 +9,16 @@ p {
 ul {
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.dark-light {
+  background-color: white;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
